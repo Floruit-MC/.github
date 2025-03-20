@@ -1,11 +1,11 @@
-## Hi there 👋
+# Floruit MC
 
+![Floruit MC](https://i.imgur.com/X8gsQON.png)
 
-**Here are some ideas to get you started:**
+Welcome to **Floruit MC**, the official Minecraft server of **Floruit Game Studios**. We are dedicated to delivering immersive and high-quality gameplay experiences, featuring **unique game modes, competitive events, and custom content**. 🚀
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🌍 About Us
+**Floruit MC** is a next-generation **Minecraft server** designed to push the limits of creativity and innovation. As part of **Floruit Game Studios**, we focus on developing custom **multiplayer experiences** that engage and excite players worldwide.
+
+## 📲 Join Us
+Want to experience **Floruit MC**? Visit our official website: 🌐 [**Floruit MC**](https://floruitmc.com.br/)
